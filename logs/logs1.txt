@@ -1,1 +1,40 @@
-1
+-s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1
+
+rr2---sn-hgn7ynek.googlevideo.com - 0/1
+rr1---sn-gvnuxaxjvh-5gie.googlevideo.com - 0/1
+rr1---sn-xguxaxjvh-gufl.googlevideo.com - 1/1
+rr5---sn-gvnuxaxjvh-n8vk.googlevideo.com - 1/1
+rr10---sn-gvnuxaxjvh-304z.googlevideo.com - 1/1
+rr14---sn-n8v7kn7r.googlevideo.com - 1/1
+rr5---sn-n8v7knez.googlevideo.com - 1/1
+rr4---sn-jvhnu5g-c35d.googlevideo.com - 1/1
+i9.ytimg.com - 1/1
+yt3.ggpht.com - 1/1
+rr16---sn-axq7sn76.googlevideo.com - 1/1
+rr1---sn-4axm-n8vs.googlevideo.com - 1/1
+rr1---sn-8ph2xajvh-5xge.googlevideo.com - 1/1
+jnn-pa.googleapis.com - 1/1
+yt3.googleusercontent.com - 1/1
+googleapis.com - 1/1
+googleusercontent.com - 1/1
+yt4.ggpht.com - 1/1
+rr1---sn-ug5onuxaxjvh-n8v6.googlevideo.com - 1/1
+manifest.googlevideo.com - 1/1
+rr12---sn-gvnuxaxjvh-bvwz.googlevideo.com - 1/1
+rr1---sn-gvnuxaxjvh-o8ge.googlevideo.com - 1/1
+rr1---sn-u5uuxaxjvhg0-ocje.googlevideo.com - 1/1
+i.ytimg.com - 1/1
+rr2---sn-q4fl6ndl.googlevideo.com - 1/1
+signaler-pa.youtube.com - 1/1
+rr1---sn-q4fl6n6y.googlevideo.com - 1/1
+youtube.com - 1/1
+rr4---sn-q4flrnsl.googlevideo.com - 1/1
+rr1---sn-ug5onuxaxjvh-p3ul.googlevideo.com - 1/1
+youtubei.googleapis.com - 1/1
+youtu.be - 1/1
+threads.com - 1/1
+Instagram.com - 0/1
+x.com - 1/1
+
+32/35
+-------------
