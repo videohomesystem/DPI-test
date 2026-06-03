@@ -10,4 +10,4 @@ main work, but META is down:
 -s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1
 
 
--H:"threads.com *.threads.net instagram.com *.cdninstagram.com *.fbcdn.net scontent*.cdninstagram.com" -d1:3+s -d3:5+sm -f-300 -e1 -m1 -An -H:"" -s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1 -An
+-H:"cdn.threads.net media.threads.net *.cdninstagram.com *.fbcdn.net" -f-1 -d1+s -An -H:"" -s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1 -An
