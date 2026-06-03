@@ -5,3 +5,6 @@ H:"instagram.com *.instagram.com facebook.com *.facebook.com" -d1:3+s -d3:5+sm -
 
 # Fallback стратегия для заблокированных доменов
 --fallback-strategy "-d1 -s1+s -s3+s -s6+s -s9+s -s12+s -s15+s -s20+s -s30+s -a1"
+
+main work, but META is down:
+-s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1
