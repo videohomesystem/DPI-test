@@ -4,7 +4,6 @@ media.threads.net
 scontent*.cdninstagram.com
 *.fbcdn.net
 static*.xx.fbcdn.net
-Для Instagram
 *.cdninstagram.com
 scontent*.cdninstagram.com
 *.fbcdn.net
