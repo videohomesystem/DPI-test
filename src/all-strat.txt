@@ -11,3 +11,11 @@ main work, but META is down:
 
 
 -H:"cdn.threads.net media.threads.net *.cdninstagram.com *.fbcdn.net" -f-1 -d1+s -An -H:"" -s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1 -An
+
+-s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1
+
+H:"instagram.com *.instagram.com facebook.com *.facebook.com" -d1:3+s -d3:5+sm -s1:3+s -s2:5+sm -f-300 -e1 -m1 -An -H:"" -s1 -q1 -Y -a1 -At,r,s -f-1 -r1+s -a1 -An
+
+/storage/emulated/0/1/ByebyeDPI/ru-domain.txt
+
+/storage/emulated/0/1/ByebyeDPI/meta-domain.txt
