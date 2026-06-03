@@ -1,0 +1,14 @@
+*.threads.net
+cdn.threads.net
+media.threads.net
+scontent*.cdninstagram.com
+*.fbcdn.net
+static*.xx.fbcdn.net
+Для Instagram
+*.cdninstagram.com
+scontent*.cdninstagram.com
+*.fbcdn.net
+static.cdninstagram.com
+graph.instagram.com
+i.instagram.com
+*.cloudfront.net
